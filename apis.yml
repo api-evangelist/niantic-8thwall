@@ -1,0 +1,91 @@
+aid: niantic-8thwall
+name: 8th Wall
+description: >-
+  8th Wall is a web-based augmented reality (WebAR) platform originally
+  founded in 2016 and acquired by Niantic in March 2022. Following Niantic's
+  2025 sale of its gaming division to Scopely and the spin-off of Niantic
+  Spatial, Inc. as an independent geospatial AI and XR company, 8th Wall's
+  hosted cloud editor, login, and Niantic Studio services were retired on
+  February 28, 2026 and the platform transitioned to a free, open-source
+  distribution model. Existing published 8th Wall experiences continue to
+  run through February 28, 2027. The 8th Wall stack centers on the XR
+  Engine — a SLAM-based WebAR runtime providing World Tracking, Image
+  Targets, Face Effects, Sky Segmentation, and World Effects — exposed to
+  developers as a TypeScript/JavaScript SDK that integrates with A-Frame,
+  three.js, PlayCanvas, and Babylon.js. The Distributed Engine Binary
+  (released January 2026) ships SLAM under a binary-only license for
+  commercial and noncommercial use, while the surrounding framework,
+  utilities, and example projects are MIT-licensed on the 8thwall GitHub
+  organization. 8th Wall Studio (formerly Niantic Studio) is a real-time
+  visual editor and game engine for authoring 3D and XR experiences that
+  can be deployed to any web host. 8th Wall does not publish a public REST
+  or HTTP API; the developer surface is a client-side JavaScript SDK plus
+  command-line and utility tooling distributed through GitHub.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Augmented Reality
+  - WebAR
+  - Web AR
+  - XR
+  - Extended Reality
+  - 3D
+  - SLAM
+  - World Tracking
+  - Image Targets
+  - Face Effects
+  - Sky Segmentation
+  - Niantic
+  - Niantic Spatial
+  - Open Source
+  - JavaScript SDK
+  - TypeScript
+  - A-Frame
+  - three.js
+  - PlayCanvas
+  - Babylon.js
+url: https://raw.githubusercontent.com/api-evangelist/niantic-8thwall/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://8thwall.org
+  - type: LegacyWebsite
+    url: https://www.8thwall.com
+  - type: Documentation
+    url: https://8thwall.org/docs
+  - type: GettingStarted
+    url: https://8thwall.org/docs/getting-started
+  - type: Studio
+    url: https://8thwall.org/docs/studio
+  - type: Engine
+    url: https://8thwall.org/docs/engine
+  - type: MigrationGuide
+    url: https://8thwall.org/docs/migration-guide
+  - type: OpenSource
+    url: https://8thwall.org/docs/open-source
+  - type: Troubleshooting
+    url: https://8thwall.org/docs/troubleshooting
+  - type: GitHub
+    url: https://github.com/8thwall
+  - type: Engine-GitHub
+    url: https://github.com/8thwall/engine
+  - type: Framework-GitHub
+    url: https://github.com/8thwall/8thwall
+  - type: Forum
+    url: https://forum.8thwall.com
+  - type: Blog
+    url: https://www.8thwall.com/blog
+  - type: NianticSpatial
+    url: https://nianticspatial.com
+  - type: TransitionAnnouncement
+    url: https://www.8thwall.com/blog/post/202888018234/8th-wall-update-engine-distribution-and-open-source-plans
+  - type: License
+    url: https://github.com/8thwall/8thwall/blob/main/LICENSE
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
