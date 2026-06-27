@@ -2,11 +2,11 @@
   "repo": "niantic-8thwall",
   "feeds": [
     {
-      "source": "https://8thwall.org/blog",
+      "source": "https://8thwall.org/blog/rss.xml",
       "feed_url": "https://8thwall.org/blog/rss.xml",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://forum.8thwall.com",
@@ -17,5 +17,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:03:07Z"
 }

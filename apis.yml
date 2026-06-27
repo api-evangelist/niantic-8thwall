@@ -76,7 +76,7 @@ common:
     url: https://github.com/8thwall/engine
   - type: Framework-GitHub
     url: https://github.com/8thwall/8thwall
-  - type: Forum
+  - type: Forums
     url: https://forum.8thwall.com
   - type: Blog
     url: https://www.8thwall.com/blog
