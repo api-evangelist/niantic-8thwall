@@ -39,6 +39,26 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/niantic-8t
 tags:
   - Augmented Reality
   - WebAR
+  - XR
+  - Extended Reality
+  - 3D
+  - SLAM
+  - World Tracking
+  - Image Targets
+  - Face Effects
+  - Sky Segmentation
+  - Niantic
+  - Niantic Spatial
+  - Open-Source
+  - JavaScript SDK
+  - TypeScript
+  - A-Frame
+  - three.js
+  - PlayCanvas
+  - Babylon.js
+tags_raw:
+  - Augmented Reality
+  - WebAR
   - Web AR
   - XR
   - Extended Reality
