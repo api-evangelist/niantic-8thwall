@@ -22,6 +22,17 @@ description: >-
   or HTTP API; the developer surface is a client-side JavaScript SDK plus
   command-line and utility tooling distributed through GitHub.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
